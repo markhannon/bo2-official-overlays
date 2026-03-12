@@ -15,7 +15,7 @@
     },
     "Ford": 
     {
-        "tokens": ["ford", "mustang"]
+        "tokens": ["ford", "mustang", "fr500"]
     },
     "Chevrolet": 
     {
@@ -67,7 +67,7 @@
     },
     "Renault": 
     {
-        "tokens": ["renault", "fr500"]
+        "tokens": ["renault"]
     },
     "Radical": 
     {
